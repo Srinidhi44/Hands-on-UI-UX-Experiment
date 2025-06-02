@@ -1,9 +1,9 @@
 # Hands-on-UI-UX-Experiment
 1.-Hands-on-UI-UX-Experiments
 
-name : Srinidhi.P 
+Name : Srinidhi.P 
 
-reg no: 212222040160
+Reg no: 212222040160
 
 AIM:
 a. Explore the fundamentals of UI and UX
